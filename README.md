@@ -11,3 +11,4 @@ Este proyecto fue creado por: Torres Gatica Erick Nahum
 
 1. Torres Gatica Erick Nahum
 2. Omar Morales Demetrio
+3. Villalobos Hernández Diego Araith
