@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Programación Orientada a Objetos",
+    "codigo": "DSIT-101",
+    "creditos": 8,
+    "seriacion": null,
+    "cuatrimestre": 1,
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Estructura de Datos",
+    "codigo": "DSIT-102",
+    "creditos": 8,
+    "seriacion": "DSIT-101",
+    "cuatrimestre": 2,
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Arquitectura de Computadoras",
+    "codigo": "DSIT-103",
+    "creditos": 6,
+    "seriacion": null,
+    "cuatrimestre": 1,
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Análisis y Diseño de Sistemas",
+    "codigo": "DSIT-201",
+    "creditos": 10,
+    "seriacion": "DSIT-102",
+    "cuatrimestre": 4,
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Redes de Computadoras",
+    "codigo": "TELM-101",
+    "creditos": 8,
+    "seriacion": null,
+    "cuatrimestre": 2,
+    "carrera": {
+      "id": 2,
+      "nombre": "Ingeniería en Telemática"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Programación para la Web",
+    "codigo": "TELM-102",
+    "creditos": 8,
+    "seriacion": "DSIT-101",
+    "cuatrimestre": 3,
+    "carrera": {
+      "id": 2,
+      "nombre": "Ingeniería en Telemática"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Sistemas Operativos",
+    "codigo": "TELM-201",
+    "creditos": 8,
+    "seriacion": "DSIT-103",
+    "cuatrimestre": 4,
+    "carrera": {
+      "id": 2,
+      "nombre": "Ingeniería en Telemática"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Bases de Datos",
+    "codigo": "INFO-101",
+    "creditos": 8,
+    "seriacion": "DSIT-101",
+    "cuatrimestre": 3,
+    "carrera": {
+      "id": 3,
+      "nombre": "Ingeniería en Informática"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Sistemas de Información",
+    "codigo": "INFO-201",
+    "creditos": 10,
+    "seriacion": "INFO-101",
+    "cuatrimestre": 5,
+    "carrera": {
+      "id": 3,
+      "nombre": "Ingeniería en Informática"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Inteligencia Artificial",
+    "codigo": "INFO-301",
+    "creditos": 8,
+    "seriacion": "DSIT-201",
+    "cuatrimestre": 7,
+    "carrera": {
+      "id": 3,
+      "nombre": "Ingeniería en Informática"
+    }
+  }
+]
