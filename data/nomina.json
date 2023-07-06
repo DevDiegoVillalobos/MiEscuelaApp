@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "fecha_pago": "2022-01-15",
+        "profesor": {
+            "nombre": "Juan Pérez García"
+        },
+        "dias_trabajados": 10,
+        "salario": 15000,
+        "retenciones": 3000,
+        "vales_despensa": 1000
+    },
+    {
+        "id": 2,
+        "fecha_pago": "2022-01-31",
+        "profesor": {
+            "nombre": "María Gómez Hernández"
+        },
+        "dias_trabajados": 12,
+        "salario": 17000,
+        "retenciones": 3400,
+        "vales_despensa": 1200
+    },
+    {
+        "id": 3,
+        "fecha_pago": "2022-02-15",
+        "profesor": {
+            "nombre": "Carlos Hernández López"
+        },
+        "dias_trabajados": 10,
+        "salario": 14000,
+        "retenciones": 2800,
+        "vales_despensa": 900
+    },
+    {
+        "id": 4,
+        "fecha_pago": "2022-02-28",
+        "profesor": {
+            "nombre": "Diana Castro Rodríguez"
+        },
+        "dias_trabajados": 14,
+        "salario": 19000,
+        "retenciones": 3800,
+        "vales_despensa": 1500
+    },
+    {
+        "id": 5,
+        "fecha_pago": "2022-03-15",
+        "profesor": {
+            "nombre": "Laura Pérez Sánchez"
+        },
+        "dias_trabajados": 10,
+        "salario": 13000,
+        "retenciones": 2600,
+        "vales_despensa": 800
+    },
+    {
+        "id": 6,
+        "fecha_pago": "2022-03-31",
+        "profesor": {
+            "nombre": "Javier López García"
+        },
+        "dias_trabajados": 12,
+        "salario": 17000,
+        "retenciones": 3400,
+        "vales_despensa": 1200
+    },
+    {
+        "id": 7,
+        "fecha_pago": "2022-04-15",
+        "profesor": {
+            "nombre": "Marcela Ramírez Jiménez"
+        },
+        "dias_trabajados": 10,
+        "salario": 15000,
+        "retenciones": 3000,
+        "vales_despensa": 1000
+    },
+    {
+        "id": 8,
+        "fecha_pago": "2022-04-30",
+        "profesor": {
+            "nombre": "Alejandra Torres Pérez"
+        },
+        "dias_trabajados": 14,
+        "salario": 19000,
+        "retenciones": 3800,
+        "vales_despensa": 1500
+    },
+    {
+        "id": 9,
+        "fecha_pago": "2022-05-15",
+        "profesor": {
+            "nombre": "Mónica Sánchez Flores"
+        },
+        "dias_trabajados": 10,
+        "salario": 14000,
+        "retenciones": 2800,
+        "vales_despensa": 900
+    },
+    {
+        "id": 10,
+        "fecha_pago": "2022-05-31",
+        "profesor": {
+            "nombre": "Luis García Hernández"
+        },
+        "dias_trabajados": 12,
+        "salario": 17000,
+        "retenciones": 3400,
+        "vales_despensa": 1200
+    }
+]
