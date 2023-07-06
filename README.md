@@ -10,5 +10,6 @@ Este proyecto fue creado por: Torres Gatica Erick Nahum
 ## Colaboradores
 
 1. Torres Gatica Erick Nahum
-2. Omar Morales Demetrio
+2. Morales Demetrio Omar
 3. Villalobos Hernández Diego Araith
+4. Escalona Ruiz Nathaly
