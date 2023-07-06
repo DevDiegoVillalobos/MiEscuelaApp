@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido_paterno": "Pérez",
+    "apellido_materno": "García",
+    "fecha_nacimiento": "1999-03-15",
+    "correo_electronico": "juan.perez@example.com",
+    "telefono": "+52 55 1234 5678",
+    "direccion": "Calle 123, Ciudad de México, México",
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Sistemas"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido_paterno": "González",
+    "apellido_materno": "Rodríguez",
+    "fecha_nacimiento": "1997-09-20",
+    "correo_electronico": "maria.gonzalez@example.com",
+    "telefono": "+52 55 8765 4321",
+    "direccion": "Avenida 456, Monterrey, México",
+    "carrera": {
+      "id": 2,
+      "nombre": "Licenciatura en Administración"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Pedro",
+    "apellido_paterno": "Ramírez",
+    "apellido_materno": "Hernández",
+    "fecha_nacimiento": "2000-05-01",
+    "correo_electronico": "pedro.ramirez@example.com",
+    "telefono": "+52 55 2468 1357",
+    "direccion": "Boulevard 789, Guadalajara, México",
+    "carrera": {
+      "id": 3,
+      "nombre": "Ingeniería Mecánica"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido_paterno": "López",
+    "apellido_materno": "Fernández",
+    "fecha_nacimiento": "1998-11-10",
+    "correo_electronico": "ana.lopez@example.com",
+    "telefono": "+52 55 3692 5874",
+    "direccion": "Calle 987, Puebla, México",
+    "carrera": {
+      "id": 4,
+      "nombre": "Licenciatura en Psicología"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Jorge",
+    "apellido_paterno": "García",
+    "apellido_materno": "Sánchez",
+    "fecha_nacimiento": "1995-06-22",
+    "correo_electronico": "jorge.garcia@example.com",
+    "telefono": "+52 55 7531 2468",
+    "direccion": "Avenida 369, Tijuana, México",
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Sistemas"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Laura",
+    "apellido_paterno": "Hernández",
+    "apellido_materno": "González",
+    "fecha_nacimiento": "1996-12-05",
+    "correo_electronico": "laura.hernandez@example.com",
+    "telefono": "+52 55 9512 7531",
+    "direccion": "Calle 456, León, México",
+    "carrera": {
+      "id": 2,
+      "nombre": "Licenciatura en Administración"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Rodrigo",
+    "apellido_paterno": "Martínez",
+    "apellido_materno": "Sánchez",
+    "fecha_nacimiento": "1998-04-18",
+    "correo_electronico": "rodrigo.martinez@example.com",
+    "telefono": "+52 55 3579 2468",
+    "direccion": "Boulevard 123, Mérida, México",
+    "carrera": {
+      "id": 3,
+      "nombre": "Ingeniería Mecánica"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Valeria",
+    "apellido_paterno": "Gómez",
+    "apellido_materno": "Rodríguez",
+    "fecha_nacimiento": "1999-08-01",
+    "correo_electronico": "valeria.gomez@example.com",
+    "telefono": "+52 55 8642 9753",
+    "direccion": "Calle 789, Querétaro, México",
+    "carrera": {
+      "id": 4,
+      "nombre": "Licenciatura en Psicología"
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Carlos",
+    "apellido_paterno": "Sánchez",
+    "apellido_materno": "González",
+    "fecha_nacimiento": "1997-02-14",
+    "correo_electronico": "carlos.sanchez@example.com",
+    "telefono": "+52 55 7531 9512",
+    "direccion": "Avenida 789, Cancún, México",
+    "carrera": {
+      "id": 1,
+      "nombre": "Ingeniería en Sistemas"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Fernanda",
+    "apellido_paterno": "Guzmán",
+    "apellido_materno": "Martínez",
+    "fecha_nacimiento": "1996-10-25",
+    "correo_electronico": "fernanda.guzman@example.com",
+    "telefono": "+52 55 3692 7531",
+    "direccion": "Boulevard 456, Oaxaca, México",
+    "carrera": {
+      "id": 2,
+      "nombre": "Licenciatura en Administración"
+    }
+  }
+]
