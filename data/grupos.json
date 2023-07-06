@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "cuatrimestre": 1,
+        "grupo": "DSIT-1A",
+        "generacion": 2022,
+        "carrera": {
+            "id": 1,
+            "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+        },
+        "jefe_grupo": {
+            "nombre": "Juan Pérez",
+            "email": "jperez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "María Gómez",
+            "email": "mgomez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 2,
+        "cuatrimestre": 2,
+        "grupo": "DSIT-2A",
+        "generacion": 2021,
+        "carrera": {
+            "id": 1,
+            "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+        },
+        "jefe_grupo": {
+            "nombre": "Ana López",
+            "email": "alopez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Pedro Ramírez",
+            "email": "pramirez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 3,
+        "cuatrimestre": 3,
+        "grupo": "TELM-1A",
+        "generacion": 2023,
+        "carrera": {
+            "id": 2,
+            "nombre": "Ingeniería en Telemática"
+        },
+        "jefe_grupo": {
+            "nombre": "Luisa Torres",
+            "email": "ltorres@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Carlos Hernández",
+            "email": "chernandez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 4,
+        "cuatrimestre": 4,
+        "grupo": "TELM-2A",
+        "generacion": 2022,
+        "carrera": {
+            "id": 2,
+            "nombre": "Ingeniería en Telemática"
+        },
+        "jefe_grupo": {
+            "nombre": "Miguel Sánchez",
+            "email": "msanchez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Diana Castro",
+            "email": "dcastro@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 5,
+        "cuatrimestre": 5,
+        "grupo": "INFO-1A",
+        "generacion": 2023,
+        "carrera": {
+            "id": 3,
+            "nombre": "Ingeniería en Informática"
+        },
+        "jefe_grupo": {
+            "nombre": "Fernando Martínez",
+            "email": "fmartinez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Laura Pérez",
+            "email": "lperez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 6,
+        "cuatrimestre": 6,
+        "grupo": "INFO-2A",
+        "generacion": 2022,
+        "carrera": {
+            "id": 3,
+            "nombre": "Ingeniería en Informática"
+        },
+        "jefe_grupo": {
+            "nombre": "Mariana García",
+            "email": "mgarcia@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Javier López",
+            "email": "jlopez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 7,
+        "cuatrimestre": 7,
+        "grupo": "DSIT-3A",
+        "generacion": 2021,
+        "carrera": {
+            "id": 1,
+            "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+        },
+        "jefe_grupo": {
+            "nombre": "Elena Torres",
+            "email": "etorres@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Marcela Ramírez",
+            "email": "mramirez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 8,
+        "cuatrimestre": 8,
+        "grupo": "TELM-3A",
+        "generacion": 2020,
+        "carrera": {
+            "id": 2,
+            "nombre": "Ingeniería en Telemática"
+        },
+        "jefe_grupo": {
+            "nombre": "Rodrigo Gutiérrez",
+            "email": "rgutierrez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Alejandra Torres",
+            "email": "atorres@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 9,
+        "cuatrimestre": 9,
+        "grupo": "INFO-3A",
+        "generacion": 2021,
+        "carrera": {
+            "id": 3,
+            "nombre": "Ingeniería en Informática"
+        },
+        "jefe_grupo": {
+            "nombre": "Pablo Hernández",
+            "email": "phernandez@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Mónica Sánchez",
+            "email": "msanchez@universidad.edu.mx"
+        }
+    },
+    {
+        "id": 10,
+        "cuatrimestre": 10,
+        "grupo": "DSIT-4A",
+        "generacion": 2020,
+        "carrera": {
+            "id": 1,
+            "nombre": "Ingeniería en Desarrollo y Gestión de Software"
+        },
+        "jefe_grupo": {
+            "nombre": "Jorge Pérez",
+            "email": "jperez2@universidad.edu.mx"
+        },
+        "profesor_tutor": {
+            "nombre": "Lucía Gómez",
+            "email": "lgomez@universidad.edu.mx"
+        }
+    }
+]
